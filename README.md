@@ -1,2 +1,3 @@
 # Python.ArtificialIntelligence.Project
-Bu projede, yapay zekâ alanında kullanılan farklı problem çözme yöntemleri Python dili kullanılarak uygulanmıştır. Proje dört ana bölümden oluşmaktadır.
+(TR) Bu projede, yapay zekâ alanında kullanılan farklı problem çözme yöntemleri Python dili kullanılarak uygulanmıştır. 
+(ENG) In this project, different problem-solving methods used in the field of artificial intelligence were implemented using the Python language.
